@@ -26,7 +26,7 @@ banner = f"""
          _// \\_        \\      //   \\_   ||   \\,-.  \\    >>    |||_          \\    
         (__) (__)      (__)    (__)  (__)  (_")  (_/  (__)  (__)  (__)_)        (__)   v{version('tornado')}
 
-                                        ({green}\x1B[3mBy samet-g / samogod\x1B[0m{reset})               
+                                        ({green}\x1B[3mBy trhacknon / anonymous\x1B[0m{reset})               
        [{green}\x1B[3manonymously reverse shell over tor network using hidden services without portforwarding\x1B[0m{reset}]
 """
 
