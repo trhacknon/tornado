@@ -12,7 +12,7 @@ setup(
     author = "samet-g",
     license = "MIT",
     keywords = ["Tornado", "Tor reverse shell", "reverse shell", "metasploit", "tor"],
-    url = "https://github.com/samet-g/tornado",
+    url = "https://github.com/trhacknon/tornado",
     packages=find_packages(),
     classifiers=[
         "Intended Audience :: Developers",
